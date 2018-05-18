@@ -1,0 +1,54 @@
+.menu {
+	background-color: white;
+	cursor: pointer;
+	font-family: sans-serif;
+	position: fixed;
+	width: 190px;
+	background-color:#ffffff;
+	padding: 10px;
+	font-size: 23px;
+	text-decoration: none;
+	font-family: "Lucida Console";
+}
+
+#img{
+	top:112px;
+}
+#h {
+	top:240px;
+}
+
+#s {    
+	top:275px;
+}
+#i {
+	top:310px;
+}
+#vd {
+	top:345px; 
+}
+#a {
+	top:380px;
+}
+
+.menu:hover {
+	background-color:#ffb638;
+	
+}
+
+
+.drawings {
+	width: 60%;
+ 	margin: auto;
+ 	padding: 5px;
+
+}
+
+
+a {
+	color: black;
+}
+
+body {
+	background-color: #ffffff;
+}

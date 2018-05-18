@@ -1,0 +1,55 @@
+.menu {
+	background-color: white;
+	cursor: pointer;
+	font-family: sans-serif;
+	position: fixed;
+	width: 190px;
+	background-color: #ffffff;
+	font-size: 23px;
+	text-decoration: none;
+	padding: 10px;
+	font-family: "Lucida Console"; 
+}
+
+#img{
+	top:112px;
+}
+#h {
+	top:240px;
+}
+
+#s {    
+	top:275px;
+}
+#i {
+	top:310px;
+}
+#vd {
+	top:345px; 
+} 
+#a {
+	top:380px;
+}
+
+.menu:hover {
+	background-color:#ffb638;
+	
+}
+
+p {
+	width: 450px;
+ 	margin: auto;
+ 	padding-top: 130px;
+ 	font-size: 18px;
+ 	font-family: "Lucida Console";
+ 	line-height: 35px;
+ }
+
+
+a {
+	color: black;
+}
+
+body {
+	background-color: #ffffff;
+}
